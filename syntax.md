@@ -24,5 +24,3 @@ q= and l= needs to be adjusted to your needs
 c=position b=short t=market
 c=position b=long t=market
 ```
-
-![GitHub Logo](https://i.imgur.com/EUTZ6VS.jpg)
