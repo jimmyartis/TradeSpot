@@ -1,4 +1,4 @@
-Below you can find a sample Syntax for the OCC Indicator: 
+Below you can find a sample Syntax for the Open-Close-Cross (OCC) Indicator: 
 
 **LONG**
 ```c=order t=open
