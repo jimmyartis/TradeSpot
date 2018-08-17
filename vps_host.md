@@ -19,9 +19,9 @@ Please be aware that by renting a VPS you get a barebones virtual Linux system. 
 https://azure.microsoft.com/en-gb/ - Microsoft-owned. Not on the cheap end, however.
 
 ## Others
-[AWS Amazon](https://aws.amazon.com/) - Amazon Web Services. Free for a year (with certain limits), but very pricey after that.
-[Google Cloud](https://cloud.google.com/compute/) - AWS, but Google.
-[Lowendbox](http://lowendbox.com/) - A curator for lower specced servers.
+[AWS Amazon](https://aws.amazon.com/) - Amazon Web Services. Free for a year (with certain limits), but very pricey after that.<br>
+[Google Cloud](https://cloud.google.com/compute/) - AWS, but Google.<br>
+[Lowendbox](http://lowendbox.com/) - A curator for lower specced servers.<br>
 
 ## Self-hosting
 You can always self-host on your own hardware. A Raspberry Pi 2 B will be more than sufficient for small to medium sized bots.
