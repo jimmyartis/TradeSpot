@@ -4,7 +4,7 @@ Please be aware that by renting a VPS you get a barebones virtual Linux system. 
 
 * Be able (or learn how) to connect to and navigate the system on your own
 * Be willing to consult online resources on your own for any issue that arises
-* Not rely on the help of our support for anything other than installing Red
+* Not rely on the help of our support for anything
 
 ## Linux hosting
 [Scaleway](https://www.scaleway.com/) - Incredibly cheap but powerful VPSes, owned by https://online.net/, based in Europe.<br>
