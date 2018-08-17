@@ -21,7 +21,6 @@ https://www.vultr.com/ - US-based, DigitalOcean-like.
 https://azure.microsoft.com/en-gb/ - Microsoft-owned. Not on the cheap end, however.
 
 ## Others
-https://cloudbank.red/ - Cloudbank. Subscribe on Patreon, and Caleb co-manages your bot for you. Slots are limited.
 https://aws.amazon.com/ - Amazon Web Services. Free for a year (with certain limits), but very pricey after that.
 https://cloud.google.com/compute/ - AWS, but Google.
 http://lowendbox.com/ - A curator for lower specced servers.
