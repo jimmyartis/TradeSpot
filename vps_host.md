@@ -9,25 +9,21 @@ Please be aware that by renting a VPS you get a barebones virtual Linux system. 
 ## Linux hosting
 [Scaleway](https://www.scaleway.com/) - Incredibly cheap but powerful VPSes, owned by https://online.net/, based in Europe.<br>
 [DigitalOcean](https://www.digitalocean.com/) - US-based cheap VPSes. The gold standard. Locations available world wide.<br>
+[Vultr](https://www.vultr.com/?ref=7449790) - US-based, DigitalOcean-like.<br>
 [OVH](https://www.ovh.co.uk/) - Cheap VPSes, used by many people. France and Canadian locations available.<br>
 [Time4VPS](https://www.time4vps.eu/) - Cheap VPSes, seemingly based in Lithuania.<br>
 [Linode](https://www.linode.com/) - More cheap VPSes!<br>
-[Vultr](https://www.vultr.com/?ref=7449790) - US-based, DigitalOcean-like.<br>
 
 ## Windows hosting
 (To be honest, you should probably just use a linux box.)
 https://azure.microsoft.com/en-gb/ - Microsoft-owned. Not on the cheap end, however.
 
 ## Others
-https://aws.amazon.com/ - Amazon Web Services. Free for a year (with certain limits), but very pricey after that.
-https://cloud.google.com/compute/ - AWS, but Google.
-http://lowendbox.com/ - A curator for lower specced servers.
+[AWS Amazon](https://aws.amazon.com/) - Amazon Web Services. Free for a year (with certain limits), but very pricey after that.
+[Google Cloud](https://cloud.google.com/compute/) - AWS, but Google.
+[Lowendbox](http://lowendbox.com/) - A curator for lower specced servers.
 
 ## Self-hosting
 You can always self-host on your own hardware. A Raspberry Pi 2 B will be more than sufficient for small to medium sized bots.
 For bigger bots, you can build your own server PC for usage, or buy a rack server.
 Any modern hardware should work 100% fine.
-
-## Free hosting
-Google Cloud and AWS both have free tier VPS suitable for small bots. Additionally, new Google Cloud customers get a $300 credit which is valid for 12 months.
-Other than that... no. There is no good free VPS hoster, outside of persuading somebody to host for you, which is incredibly unlikely.
