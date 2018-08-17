@@ -30,4 +30,4 @@ c=position b=long t=market
 
 Condition | Long | Short
 ------------ | ------------- | -------------
- | ![GitHub Logo](https://i.imgur.com/O68yVkc.png) | ![GitHub Logo](https://i.imgur.com/pYei6i5.png)
+Long | ![GitHub Logo](https://i.imgur.com/O68yVkc.png) | ![GitHub Logo](https://i.imgur.com/pYei6i5.png)
