@@ -1,0 +1,29 @@
+Sample Syntax for Open-Close-Cross (OCC) Indicator: 
+
+MARKET LONG
+c=order t=open
+c=position b=short t=market
+delay=2
+b=long l=10 q=50% t=market
+
+q= and l= need to be adjusted to your needs
+
+MARKET SHORT
+c=order t=open
+c=position b=long t=market
+delay=2
+b=short l=10 q=50% t=market
+
+q= and l= need to be adjusted to your needs
+
+SL and TP (two separate alerts)
+
+c=order t=open
+c=position b=short t=market
+c=position b=long t=market
+
+EXPLANATION OF THE ABOVE COMMANDS
+c=order t=open - closes all orders that are open and unfilled.
+c=position b=long/short t=market - closes all long/short positions with a market order.
+delay=2 - delay to give previous commande time to execute on the exchange.
+b=long/short l=10 q=50% t=market - places a market order to open a long/short position at 10X leverage using 50% of your account balance.
