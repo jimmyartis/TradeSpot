@@ -1,4 +1,5 @@
-Below you can find a sample Syntax for the Open-Close-Cross (OCC) Indicator: 
+# Sample Syntax for [Open-Close-Cross (OCC)](https://profitview.app/signal ) Indicator: 
+
 
 **LONG**
 ```c=order t=open
