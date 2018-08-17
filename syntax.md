@@ -21,7 +21,7 @@ b=short l=10 q=50% t=market
 q= and l= needs to be adjusted to your needs
 ```
 
-**SL and TP**
+**SL and TP** (two separate alerts)
 ```
 c=order t=open
 c=position b=short t=market
