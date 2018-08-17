@@ -1,4 +1,4 @@
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](https://i.imgur.com/e3xLzQP.png)
 
 Need to run your bot 24/7? Get a cheap VPS.
 
