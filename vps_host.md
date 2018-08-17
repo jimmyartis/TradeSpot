@@ -10,7 +10,7 @@ Please be aware that by renting a VPS you get a barebones virtual Linux system. 
 
 ## Linux hosting
 https://www.scaleway.com/ - Incredibly cheap but powerful VPSes, owned by https://online.net/, based in Europe.
-https://m.do.co/c/71288f6af536 - US-based cheap VPSes. The gold standard. Locations available world wide.
+https://www.digitalocean.com/ - US-based cheap VPSes. The gold standard. Locations available world wide.
 https://www.ovh.co.uk/ - Cheap VPSes, used by many people. France and Canadian locations available.
 https://www.time4vps.eu/ - Cheap VPSes, seemingly based in Lithuania.
 https://www.linode.com/ - More cheap VPSes!
