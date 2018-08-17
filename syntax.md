@@ -1,10 +1,10 @@
 Below you can find a sample Syntax for the OCC Indicator: 
 
 **LONG**
-> c=order t=open
-> c=position b=short t=market
-> delay=2
-> b=long l=10 q=50% t=market
+```c=order t=open
+c=position b=short t=market
+delay=2
+b=long l=10 q=50% t=market```
 
 SHORT
 c=order t=open
