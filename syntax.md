@@ -27,3 +27,7 @@ c=order t=open
 c=position b=short t=market
 c=position b=long t=market
 ```
+
+Syntax | Sample
+------------ | -------------
+Long | ![GitHub Logo](https://i.imgur.com/iu4cS0g.png)
