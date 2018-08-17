@@ -24,4 +24,5 @@ You can always self-host on your own hardware. A Raspberry Pi 2 B will be more t
 For bigger bots, you can build your own server PC for usage, or buy a rack server.
 Any modern hardware should work 100% fine.
 
+
 [TradeSpot Discord](https://discordapp.com/invite/eEUs5WX)
