@@ -14,10 +14,6 @@ Please be aware that by renting a VPS you get a barebones virtual Linux system. 
 [Time4VPS](https://www.time4vps.eu/) - Cheap VPSes, seemingly based in Lithuania.<br>
 [Linode](https://www.linode.com/) - More cheap VPSes!<br>
 
-## Windows hosting
-(To be honest, you should probably just use a linux box.)
-https://azure.microsoft.com/en-gb/ - Microsoft-owned. Not on the cheap end, however.
-
 ## Others
 [AWS Amazon](https://aws.amazon.com/) - Amazon Web Services. Free for a year (with certain limits), but very pricey after that.<br>
 [Google Cloud](https://cloud.google.com/compute/) - AWS, but Google.<br>
