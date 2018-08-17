@@ -8,7 +8,7 @@ Please be aware that by renting a VPS you get a barebones virtual Linux system. 
 
 ## Linux hosting
 [Scaleway](https://www.scaleway.com/) - Incredibly cheap but powerful VPS's, owned by https://online.net/, based in Europe.<br>
-[DigitalOcean](https://www.digitalocean.com/) - US-based. The gold standard. Locations available world wide.<br>
+[DigitalOcean](https://m.do.co/c/509078733c3f) - US-based. The gold standard. Locations available world wide.<br>
 [Vultr](https://www.vultr.com/?ref=7449790) - US-based, DigitalOcean-like.<br>
 [OVH](https://www.ovh.co.uk/) - Cheap VPS's, used by many people. France and Canadian locations available.<br>
 [Time4VPS](https://www.time4vps.eu/) - Cheap VPS's, seemingly based in Lithuania.<br>
