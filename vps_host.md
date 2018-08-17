@@ -12,7 +12,7 @@ https://www.digitalocean.com/ - US-based cheap VPSes. The gold standard. Locatio
 https://www.ovh.co.uk/ - Cheap VPSes, used by many people. France and Canadian locations available.
 https://www.time4vps.eu/ - Cheap VPSes, seemingly based in Lithuania.
 https://www.linode.com/ - More cheap VPSes!
-https://www.vultr.com/ - US-based, DigitalOcean-like.
+[Vultr](https://www.vultr.com/?ref=7449790) - US-based, DigitalOcean-like.
 
 ## Windows hosting
 (To be honest, you should probably just use a linux box.)
