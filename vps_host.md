@@ -1,3 +1,5 @@
+![GitHub Logo](/images/logo.png)
+
 Need to run your bot 24/7? Get a cheap VPS.
 
 Please be aware that by renting a VPS you get a barebones virtual Linux system. There is no user friendly graphical interface and everything will be done through command line. You will be expected to:
@@ -14,7 +16,7 @@ https://www.time4vps.eu/ - Cheap VPSes, seemingly based in Lithuania.
 https://www.linode.com/ - More cheap VPSes!
 https://www.vultr.com/ - US-based, DigitalOcean-like.
 
-## Windows hostin
+## Windows hosting
 (To be honest, you should probably just use a linux box.)
 https://azure.microsoft.com/en-gb/ - Microsoft-owned. Not on the cheap end, however.
 
