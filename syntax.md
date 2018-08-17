@@ -28,6 +28,6 @@ c=position b=short t=market
 c=position b=long t=market
 ```
 
-
+------------ | -------------
 Long | ![GitHub Logo](https://i.imgur.com/O68yVkc.png)
 Short | ![GitHub Logo](https://i.imgur.com/pYei6i5.png)
