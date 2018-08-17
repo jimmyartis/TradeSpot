@@ -23,3 +23,5 @@ Please be aware that by renting a VPS you get a barebones virtual Linux system. 
 You can always self-host on your own hardware. A Raspberry Pi 2 B will be more than sufficient for small to medium sized bots.
 For bigger bots, you can build your own server PC for usage, or buy a rack server.
 Any modern hardware should work 100% fine.
+
+[TradeSpot Discord](https://discordapp.com/invite/eEUs5WX)
