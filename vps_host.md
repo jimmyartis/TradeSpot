@@ -2,9 +2,9 @@ Need to run your bot 24/7? Get a cheap VPS.
 
 Please be aware that by renting a VPS you get a barebones virtual Linux system. There is no user friendly graphical interface and everything will be done through command line. You will be expected to:
 
-Be able (or learn how) to connect to and navigate the system on your own
-Be willing to consult online resources on your own for any issue that arises
-Not rely on the help of our support for anything other than installing Red
+  Be able (or learn how) to connect to and navigate the system on your own
+  Be willing to consult online resources on your own for any issue that arises
+  Not rely on the help of our support for anything other than installing Red
 
 **Linux hosting**
 https://www.scaleway.com/ - Incredibly cheap but powerful VPSes, owned by https://online.net/, based in Europe.
