@@ -28,6 +28,6 @@ c=position b=short t=market
 c=position b=long t=market
 ```
 
-Condition | Example | Example
+Condition | Long | Short
 ------------ | ------------- | -------------
-Long | ![GitHub Logo](https://i.imgur.com/O68yVkc.png) | ![GitHub Logo](https://i.imgur.com/pYei6i5.png)
+ | ![GitHub Logo](https://i.imgur.com/O68yVkc.png) | ![GitHub Logo](https://i.imgur.com/pYei6i5.png)
