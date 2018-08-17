@@ -30,4 +30,4 @@ c=position b=long t=market
 
 Syntax | Sample
 ------------ | -------------
-Long | ![GitHub Logo](https://i.imgur.com/iu4cS0g.png)
+Long | ![GitHub Logo](https://i.imgur.com/2HZWn19.png)
