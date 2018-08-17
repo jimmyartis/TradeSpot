@@ -1,4 +1,4 @@
-Need to run your bot 24/7? Get a cheap VPS.
+## Need to run your bot 24/7? Get a cheap VPS.
 
 Please be aware that by renting a VPS you get mostly a barebones virtual Linux system. There is no user friendly graphical interface and everything will be done through command line. You will be expected to:
 
