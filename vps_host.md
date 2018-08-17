@@ -7,11 +7,11 @@ Please be aware that by renting a VPS you get a barebones virtual Linux system. 
 * Not rely on the help of our support for anything other than installing Red
 
 ## Linux hosting
-https://www.scaleway.com/ - Incredibly cheap but powerful VPSes, owned by https://online.net/, based in Europe.
-https://www.digitalocean.com/ - US-based cheap VPSes. The gold standard. Locations available world wide.
-https://www.ovh.co.uk/ - Cheap VPSes, used by many people. France and Canadian locations available.
-https://www.time4vps.eu/ - Cheap VPSes, seemingly based in Lithuania.
-https://www.linode.com/ - More cheap VPSes!
+[Scaleway](https://www.scaleway.com/) - Incredibly cheap but powerful VPSes, owned by https://online.net/, based in Europe.
+[DigitalOcean](https://www.digitalocean.com/) - US-based cheap VPSes. The gold standard. Locations available world wide.
+[OVH](https://www.ovh.co.uk/) - Cheap VPSes, used by many people. France and Canadian locations available.
+[Time4VPS](https://www.time4vps.eu/) - Cheap VPSes, seemingly based in Lithuania.
+[Linode](https://www.linode.com/) - More cheap VPSes!
 [Vultr](https://www.vultr.com/?ref=7449790) - US-based, DigitalOcean-like.
 
 ## Windows hosting
